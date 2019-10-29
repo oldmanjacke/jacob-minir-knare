@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jacob miniräknare", "jacob miniräknare\jacob miniräknare.csproj", "{C3A0F44B-06D4-43C8-BB7C-5FE58F6343AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3A0F44B-06D4-43C8-BB7C-5FE58F6343AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3A0F44B-06D4-43C8-BB7C-5FE58F6343AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3A0F44B-06D4-43C8-BB7C-5FE58F6343AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3A0F44B-06D4-43C8-BB7C-5FE58F6343AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8AC3E010-9E0E-451E-9AEB-F1F297192375}
+	EndGlobalSection
+EndGlobal
